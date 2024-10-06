@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Формирования Русского Народа.md",
+                "file": "Russian History/Формирования Русского Народа.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Формирования Русского Народа.md",
+                "file": "Russian History/Формирования Русского Народа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Формирования Русского Народа.md",
+                "file": "Russian History/Формирования Русского Народа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Формирования Русского Народа.md"
+                "file": "Russian History/Формирования Русского Народа.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d339f9df9d2dae78",
+  "active": "a233dda7bf2d064a",
   "lastOpenFiles": [
-    "Формирования Русского Народа.md",
+    "Russian History/Формирования Русского Народа.md",
     "В древности.md",
     "Welcome.md",
     "Russian History",
