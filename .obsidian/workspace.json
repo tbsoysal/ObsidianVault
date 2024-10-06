@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "710f2d2b07368b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd87a45a8ec0895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d339f9df9d2dae78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Формирования Русского Народа.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "124bac341f6ef711",
+    "type": "split",
+    "children": [
+      {
+        "id": "05651b62fbad168b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a233dda7bf2d064a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25ef7b40e8b5e44a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9084c88070144ad4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7136bcc00d19f98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c41439b38bacda8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d14e46a858451212",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Формирования Русского Народа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5c5e110858747a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Формирования Русского Народа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40b0cb17851c7859",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5852ca5afd15972e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Формирования Русского Народа.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d339f9df9d2dae78",
+  "lastOpenFiles": [
+    "Формирования Русского Народа.md",
+    "В древности.md",
+    "Welcome.md",
+    "Russian History",
+    "Practice",
+    "Texts",
+    "Grammar",
+    "Vocabulary",
+    "create a link.md"
+  ]
+}
