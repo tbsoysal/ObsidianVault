@@ -1,1 +1,6 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true
+}
