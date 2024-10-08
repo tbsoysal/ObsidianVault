@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd87a45a8ec0895",
+        "id": "451aacb14d2badfd",
         "type": "tabs",
         "children": [
           {
-            "id": "d339f9df9d2dae78",
+            "id": "8e0d8f308db5a0e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Russian History/Формирования Русского Народа.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russian History/Формирования Русского Народа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Russian History/Формирования Русского Народа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Russian History/Формирования Русского Народа.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d339f9df9d2dae78",
+  "active": "8e0d8f308db5a0e9",
   "lastOpenFiles": [
+    "Vocabulary/Words/Речь.md",
+    "Vocabulary/Phonetic Vocabulary.md",
+    "Vocabulary/Words/Звук.md",
+    "Vocabulary/Words/папа.md",
+    "Vocabulary/Words/Привет.md",
+    "Vocabulary/Words/Акустическая классификация.md",
     "Russian History/Формирования Русского Народа.md",
+    "Vocabulary/Words",
+    "Vocabulary/phonetic",
+    "Vocabulary",
     "В древности.md",
     "Welcome.md",
     "Russian History",
