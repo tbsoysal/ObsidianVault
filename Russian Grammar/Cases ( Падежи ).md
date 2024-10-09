@@ -1,0 +1,6 @@
+- [[Nominative Case]] (Именительный Падеж)
+- [[Accusative Case]] (Внительный Падеж)
+- [[Dative Case]] (Дательный Падеж)
+- [[Genitive Case]] (Родительный Падеж)
+- [[Instrumental Case]] (Творительный Падеж)
+- [[Prepositional Case]] (Предложный Падеж)

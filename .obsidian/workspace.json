@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "451aacb14d2badfd",
+        "id": "3beb94b20135bcd3",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0d8f308db5a0e9",
+            "id": "e5d9be8a7719e929",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,10 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e0d8f308db5a0e9",
+  "active": "e5d9be8a7719e929",
   "lastOpenFiles": [
-    "Vocabulary/Words/Речь.md",
+    "Russian Grammar/Instrumental Case.md",
+    "Russian Grammar/Genitive Case.md",
+    "Russian Grammar/Cases ( Падежи ).md",
+    "Russian Grammar/Accusative Case.md",
+    "Russian Grammar/Prepositional Case.md",
+    "Russian Grammar/Dative Case.md",
+    "Russian Grammar/Nominative Case.md",
+    "Russian Grammar/Russian Grammar.md",
+    "Russian Grammar",
+    "Vocabulary/Vocabulary.md",
+    "Russian History/Russian History.md",
+    "Vocabulary",
     "Vocabulary/Phonetic Vocabulary.md",
+    "Vocabulary/Words/Речь.md",
     "Vocabulary/Words/Звук.md",
     "Vocabulary/Words/папа.md",
     "Vocabulary/Words/Привет.md",
